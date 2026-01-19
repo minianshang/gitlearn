@@ -6,3 +6,4 @@ what are you nongshalei
 zhe hui wo ming bai le.
 My stupid boss still prefers SVN.
 creating a new branch
+creating a quick AND SIMPLE。
